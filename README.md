@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning information technologies
 - 💞️ I’m looking to collaborate on Barcelona
 - 📫 How to reach me arsenklaptentko@gmail.com
-- 😄 Pronouns: I don't have
+- 😄 Pronouns: CS2
 - ⚡ Fun fact: It would take 1000 years to watch all the videos on YouTube
 
 <!---
